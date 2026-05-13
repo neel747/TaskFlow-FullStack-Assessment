@@ -5,7 +5,7 @@
   },
   "deploy": {
     "rootDirectory": "client",
-    "startCommand": "npm run preview -- --port 3000 --host",
+    "startCommand": "npm start",
     "healthcheckPath": "/"
   }
 }
